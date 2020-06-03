@@ -103,7 +103,7 @@ padding: 60px 0;
   border-radius: 50%;
 }
 
-#content:nth-child(even) {
+#post-container:nth-child(even) {
   background-color: #f2f2f2;
 }
 
